@@ -46,6 +46,12 @@ Vue.component("purple_hero_component_1721930484", {
                             <span id="docs-button-text">Read the docs</span>
                         </a>
                     </div>
+
+                </div>
+                <div id="hello-world-button-container" class="flex justify-center mt-4">
+                    <button id="hello-world-button" class="px-6 py-3 text-white bg-purple-600 rounded-lg shadow-md transition duration-150 ease-in-out hover:bg-purple-700 focus:outline-none focus:ring-2 focus:ring-purple-500 focus:ring-opacity-50">
+                        Hello World
+                    </button>
                 </div>
             </div>
         </div>
